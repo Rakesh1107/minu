@@ -1,0 +1,39 @@
+body {
+	background-color: #ffe3ed;
+	margin: 20px 100px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 3rem;
+	text-align: center;
+}
+.heading {
+	font-family: 'Merriweather', serif;
+	font-size: 3rem;
+	color: #ff7c7c;
+	margin: 50px;
+}
+
+.section {
+	padding: 20px 10px;
+	border: 2px solid;
+	border-color: #ff2e63;
+}
+.alphabet {
+    color: #ff7c7c;
+	font-size: 5rem;
+	font-weight: bold;
+	text-align: left;
+	padding-right: 100px;
+}
+.picture {
+	font-size: 4rem;
+	text-align: right;
+}
+.section:hover {
+	background-color: #fff;
+}
+.footer {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 1rem;
+	margin: 20px;
+	text-align: center;
+}
