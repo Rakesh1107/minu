@@ -10,7 +10,6 @@ document.addEventListener("keydown", function(e) {
   var keyPressed = e.key;
   var keyAudio = new Audio("sounds/" + keyPressed + ".mp3");
   playAudio(keyAudio);
-  animate(keyPressed);
 });
 
 //Play audio 
